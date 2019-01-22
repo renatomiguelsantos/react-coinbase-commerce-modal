@@ -27,7 +27,7 @@ import 'react-coinbase-commerce/dist/coinbase-commerce-button.css';
 
 const App = () => {
   return (
-    <CoinbaseCommerceButton checkoutId={'My checkout ID'}/>
+    <CoinbaseCommerceModal checkoutId={'My checkout ID'} showModal={!!showModal}/>
   )
 };
 ```
