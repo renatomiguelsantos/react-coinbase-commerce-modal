@@ -45,8 +45,8 @@
   "author": "Tyson Battistella. Will Dembinski, forked it. Made the 'modal only' thing.",
   "license": "Apache 2.0",
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0"
+    "react": "^15.3.1 || ^16.0.0",
+    "react-dom": "^15.3.1 || ^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
